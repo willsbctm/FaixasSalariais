@@ -48,3 +48,9 @@ C:\Projetos\William\FaixasSalariais\FaixasSalariais.Tests\obj\Debug\FaixasSalari
 C:\Projetos\William\FaixasSalariais\FaixasSalariais.Tests\obj\Debug\FaixasSalariais.Tests.pdb
 C:\Projetos\William\FaixasSalariais\FaixasSalariais.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
 C:\Projetos\William\FaixasSalariais\FaixasSalariais.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Projetos\William\FaixasSalariais\FaixasSalariais.Tests\bin\Debug\FluentAssertions.Core.dll
+C:\Projetos\William\FaixasSalariais\FaixasSalariais.Tests\bin\Debug\FluentAssertions.dll
+C:\Projetos\William\FaixasSalariais\FaixasSalariais.Tests\bin\Debug\FluentAssertions.pdb
+C:\Projetos\William\FaixasSalariais\FaixasSalariais.Tests\bin\Debug\FluentAssertions.xml
+C:\Projetos\William\FaixasSalariais\FaixasSalariais.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\Projetos\William\FaixasSalariais\FaixasSalariais.Tests\bin\Debug\FluentAssertions.Core.xml
